@@ -1,7 +1,7 @@
 # buyWowClone-Unit-3
 
  
-Deploy link: 
+Deploy link: https://fluffy-mermaid-1fa62f.netlify.app/
 
 1. As Title of the project said, this Project is a clone of Buywow.in website
 -> Tech Stack used in this project is 
